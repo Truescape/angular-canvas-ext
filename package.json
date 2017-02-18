@@ -1,8 +1,8 @@
 {
   "name": "angular-canvas-ext",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "An Angular module that allows to open images in canvas, zoom, pan, crop, resize and download image",
-  "main": "angular-canvas-ext.js",
+  "main": "index.js",
   "scripts": {
     "test": "grunt test"
   },
